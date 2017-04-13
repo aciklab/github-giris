@@ -47,5 +47,9 @@ Eğer projeyi ilk defa github'a gönderiyorsanız aşağıdaki gibi ayarlayıp, 
 * git remote add origin https://github.com/alorak/test1.git
 * git push -u origin master
 
+## Temel bilgilerden sonra:
+
+### İlk Proje Denemesi:
+* https://github.com/alorak/github-giris/blob/master/ilkProjeDenemesi.md
 
 
