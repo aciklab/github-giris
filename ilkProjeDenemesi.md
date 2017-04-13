@@ -28,16 +28,21 @@ yazısı yerine
 
 * print "Merhaba Dünya, Merhaba"
 
-yazıp kaydedin.
+yazıp kaydedin. Veya yaratıcılığınıza göre farklı şeyler yapabilirsiniz.
 
 ## 5. Commit ekleme
 Dosyadaki değişiklikleri commit olarak eklemek için aşağıdaki komutları giriniz:
 
-git add merhaba.py
-git commit -m "İlk deneme, ilk commit"
+* git add merhaba.py
+* git commit -m "İlk deneme, ilk commit"
 
 ## 6. Değişiklikleri Github'a göndermek
 Yaptığınız değişiklikleri github'a göndermek için aşağıdaki iki komutu yazabilirsiniz.
 
-git push origin master
-git pull
+* git push origin master
+* git pull
+
+## 7. Uygulamayı yerel bilgisayarınızda çalıştırma
+Uygulamayı bilgisayarınızda çalıştırmak için ise aşağıdaki komutu yazabilirsiniz:
+
+* python merhaba.py
